@@ -1,0 +1,8 @@
+C:\Users\VEYSEL\Documents\C# Lessons\CSharpLesson1\Loops\bin\Debug\Loops.exe.config
+C:\Users\VEYSEL\Documents\C# Lessons\CSharpLesson1\Loops\bin\Debug\Loops.exe
+C:\Users\VEYSEL\Documents\C# Lessons\CSharpLesson1\Loops\bin\Debug\Loops.pdb
+C:\Users\VEYSEL\Documents\C# Lessons\CSharpLesson1\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\VEYSEL\Documents\C# Lessons\CSharpLesson1\Loops\obj\Debug\Loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\VEYSEL\Documents\C# Lessons\CSharpLesson1\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\VEYSEL\Documents\C# Lessons\CSharpLesson1\Loops\obj\Debug\Loops.exe
+C:\Users\VEYSEL\Documents\C# Lessons\CSharpLesson1\Loops\obj\Debug\Loops.pdb

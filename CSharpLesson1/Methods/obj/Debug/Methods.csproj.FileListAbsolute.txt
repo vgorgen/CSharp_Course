@@ -1,0 +1,8 @@
+C:\Users\VEYSEL\Documents\C# Lessons\CSharpLesson1\Methods\bin\Debug\Methods.exe.config
+C:\Users\VEYSEL\Documents\C# Lessons\CSharpLesson1\Methods\bin\Debug\Methods.exe
+C:\Users\VEYSEL\Documents\C# Lessons\CSharpLesson1\Methods\bin\Debug\Methods.pdb
+C:\Users\VEYSEL\Documents\C# Lessons\CSharpLesson1\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\VEYSEL\Documents\C# Lessons\CSharpLesson1\Methods\obj\Debug\Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\VEYSEL\Documents\C# Lessons\CSharpLesson1\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\VEYSEL\Documents\C# Lessons\CSharpLesson1\Methods\obj\Debug\Methods.exe
+C:\Users\VEYSEL\Documents\C# Lessons\CSharpLesson1\Methods\obj\Debug\Methods.pdb
